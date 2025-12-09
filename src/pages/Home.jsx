@@ -41,8 +41,8 @@ function Home() {
           <div className="mt-8 pt-6 border-t border-gray-200 w-full">
             <div className="text-sm text-gray-600 space-y-1">
               <p className="font-semibold text-gray-800">Información de Contacto</p>
-              <p>Calle Principal #123, Santo Domingo</p>
-              <p>Tel: (809) 555-1234 | (809) 555-5678</p>
+              <p>Residencial Flor De Loto, Manz S-5, Km 24 aut duarte, Pedro Brand</p>
+              <p>Tel: (809) 559-8416 | (849) 477-8416</p>
             </div>
           </div>
         </div>

@@ -66,7 +66,7 @@ function RecetaPrint({ formData, analiticas, tipo, onClose }) {
           {/* LOGO */}
           <div className="flex justify-center items-center mb-2">
             <img 
-              src="/public/logo ceteim_page-0001.jpg" 
+              src="/logo_ceteim.jpg" 
               alt="Logo CETEIM" 
               className="h-20 w-auto"
             />
